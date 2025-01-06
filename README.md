@@ -162,7 +162,7 @@ This back-and-forth isn’t about handing over control to the AI—it’s about 
 If one AI model isn’t giving you answers you can work with, try mixing things up. Different models have different strengths:
 - **ChatGPT (especially GPT-4):** Great for general-purpose coding advice, debugging, and generating reusable code snippets.
 - **Claude (Anthropic):** Often excels at understanding complex instructions and summarizing code but can miss finer debugging details.
-- **Bard (Google):** May provide additional context if you’re dealing with Google-related tools or technologies.
+- **Gemini (Google):** May provide additional context if you’re dealing with Google-related tools or technologies.
 - **Specialized Coding Assistants (e.g., GitHub Copilot):** Integrated directly into IDEs for real-time coding help.
 
 Here’s how to do it:
