@@ -195,7 +195,3 @@ This one shift can be a game-changer.
 ---
 
 ### Don't Give Up, but take a break!
-
-Troubleshooting is part of the journey, and every problem you solve builds your confidence. The key is to approach each issue with patience, curiosity, and a willingness to experiment. You’ve got this—now let’s keep building!
-
---- 
