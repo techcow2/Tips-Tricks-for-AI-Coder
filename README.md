@@ -6,9 +6,10 @@ Welcome to the **Tips & Tricks for AI Coder Beginners**, a comprehensive resourc
 
 ## Table of Contents
 
+## Table of Contents
 1. [Introduction](#introduction)
 2. [Chapter 1: Getting the AI to Do What You Want – The Power of Thoughtful Prompts](#chapter-1-getting-the-ai-to-do-what-you-want-–-the-power-of-thoughtful-prompts)
-3. *(Coming Soon)*
+3. [Chapter 2: When Things Aren't Going Your Way – Troubleshooting with AI and Regaining Momentum](#chapter-2-when-things-arent-going-your-way-–-troubleshooting-with-ai-and-regaining-momentum)
 4. *(Coming Soon)*
 5. *(Coming Soon)*
 6. *(Coming Soon)*
@@ -99,3 +100,104 @@ If there’s one thing you take away from this chapter, let it be this: specific
 This process might feel clunky at first, but I promise, the more you practice, the better you’ll get at it.
 
 ### Remember, the way you word it matters!
+
+## Chapter 2: When Things Aren't Going Your Way – Troubleshooting with AI and Regaining Momentum
+
+Let’s be real—working with AI to build apps and websites isn’t always smooth sailing. There will be moments when you feel like you’re on a roll, only to hit a wall where nothing seems to work. You’ve given the AI clear instructions (or so you thought), you’ve rephrased your requests, and yet… your project isn’t moving forward.
+
+Don’t panic.
+
+This chapter is all about troubleshooting those frustrating situations and getting yourself unstuck. Whether the AI seems clueless or your project is in disarray, there are proven ways to regain control and get back on track. Let’s dive into some practical strategies for when things aren't going your way.
+
+---
+
+### Step 1: Start Fresh – Why a New Conversation Can Save the Day
+
+Sometimes, the AI just… forgets itself. If you find yourself repeating a command over and over, and nothing is changing, the problem might not be with your instructions—it might be the **chat history.**
+
+AI language models work by keeping track of previous instructions and responses in the current conversation. Over time, this history can become **cluttered with conflicting context**. For example:
+- You might have asked for a feature earlier and then changed your mind, but the AI is still trying to balance both instructions.
+- The AI could be interpreting your new commands in the context of outdated instructions instead of treating them as independent tasks.
+
+**The Fix:** Start a new conversation with the AI.
+- Open a fresh chat, paste the most recent version of your code, and explain what you’re trying to accomplish.
+- Starting fresh clears the history and eliminates contradictions that may have crept in during your ongoing conversation.
+- Bonus: A new chat can often lead to better, more focused results because the AI isn’t distracted by its past “thoughts.” It’s like pressing a reset button.
+
+---
+
+### Step 2: Watch Out for Contradicting Code
+
+If starting fresh doesn’t solve the problem, there’s a chance the issue is in the code itself. Contradicting code happens **when two pieces of code tell your app to do opposite things.** This can often occur when:
+- The AI added a new feature but forgot to clean up or remove old code related to a previous version of that feature.
+- You’ve tried to patch multiple problems one at a time, and the AI accidentally created logic overlaps.
+- You’re working on a complex project, and somewhere along the way, something got tangled.
+
+For example:
+- Imagine you’re creating a button for your app. One part of your code says, *“When the button is clicked, submit the form.”* Another part says, *“When the button is clicked, refresh the page.”* Now the app is confused—does the button submit or refresh?
+
+**The Fix:** Ask the AI to identify and resolve contradictions.
+Using the chat feature of your AI assistant, you can give it a prompt like, *“Review my code and identify any parts that might be contradicting each other.”* Then paste the relevant sections into the chat.
+
+**Another Fix:** Debug manually.
+If the AI isn’t catching the problem (or you just want more control), start testing pieces of your app one at a time. Disable or comment out parts of the code and see how the app behaves when those sections aren’t running. This process can help you locate the specific lines causing the conflict.
+
+---
+
+### Step 3: Use AI as a Debugging Partner Without Making Immediate Changes
+
+Here’s a game-changer: **AI doesn’t always need to write code for you.** You can also use it as a trusted debugging partner to answer your questions and guide you through problems without actually changing your project. This approach gives you more control and can help you better understand how everything is connected.
+
+For example, you can ask:
+- *“What might be causing my app to crash when I click the submit button?”*
+- *“How does this section of my JavaScript interact with the CSS styling below?”*
+- *“What impact would deleting this variable have on the rest of the code?”*
+
+This back-and-forth isn’t about handing over control to the AI—it’s about using it as a coding coach. By treating AI as a teacher rather than a task executor, you can unlock insights that help you troubleshoot faster and better.
+
+---
+
+### Step 4: Try a Different AI Model or Platform
+
+If one AI model isn’t giving you answers you can work with, try mixing things up. Different models have different strengths:
+- **ChatGPT (especially GPT-4):** Great for general-purpose coding advice, debugging, and generating reusable code snippets.
+- **Claude (Anthropic):** Often excels at understanding complex instructions and summarizing code but can miss finer debugging details.
+- **Bard (Google):** May provide additional context if you’re dealing with Google-related tools or technologies.
+- **Specialized Coding Assistants (e.g., GitHub Copilot):** Integrated directly into IDEs for real-time coding help.
+
+Here’s how to do it:
+1. Copy your current code or problem description.
+2. Paste it into another model.
+3. Ask the same or similar question.
+
+Even if you’ve been working exclusively with one tool, switching to another can provide valuable new perspectives (and solutions).
+
+---
+
+### Step 5: Enable Changelogs in Your IDE or AI Assistant
+
+Changelogs are lifesavers. They let you:
+- Track exactly what the AI edited or added to your project.
+- Roll back changes if something goes wrong.
+- Compare older versions of your code to pinpoint issues.
+
+Many tools and IDEs allow you to enable changelogs or version history. If not, you can use Git for version control to achieve the same effect.
+
+---
+
+### Step 6: Consider Switching Programming Languages
+
+Sometimes, the issue isn’t you or the AI—it’s the language you’ve chosen. If your app isn’t working well or feels overly complex, ask the AI:
+*“Is [current language] the best choice for this project?”*
+
+This one shift can be a game-changer.
+
+---
+
+### Don't Give Up, but take a break!
+
+Troubleshooting is part of the journey, and every problem you solve builds your confidence. The key is to approach each issue with patience, curiosity, and a willingness to experiment. You’ve got this—now let’s keep building!
+
+--- 
+
+This update seamlessly integrates Chapter 2, ensuring the guide maintains its flow and remains a beginner-friendly resource. Let me know if you'd like further tweaks!
