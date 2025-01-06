@@ -107,7 +107,7 @@ Let’s be real—working with AI to build apps and websites isn’t always smoo
 
 Don’t panic.
 
-This chapter is all about troubleshooting those frustrating situations and getting yourself unstuck. Whether the AI seems clueless or your project is in disarray, there are proven ways to regain control and get back on track. Let’s dive into some practical strategies for when things aren't going your way.
+This chapter is all about troubleshooting those frustrating situations and getting yourself unstuck.
 
 ---
 
