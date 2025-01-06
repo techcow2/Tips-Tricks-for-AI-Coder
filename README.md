@@ -25,7 +25,7 @@ This guide also serves as a testament to my journey as a beginner developer lear
 
 ## Chapter 1: Getting the AI to Do What You Want – The Power of Thoughtful Prompts
 
-Let me share with you one of the biggest lessons I learned early on when I was just like you. Here it is: The way you phrase what you ask the AI to do is everything. The difference between getting something brilliant and getting something useless often comes down to how you asked for it. Sounds simple, but this tip alone can save you a lot of frustration.
+Let me share with you one of the biggest lessons I learned early on. Here it is: The way you phrase what you ask the AI to do is everything. The difference between getting something brilliant and getting something useless often comes down to how you asked for it. Sounds simple, but this tip alone can save you a lot of frustration.
 
 
 So, let’s talk about how to ask your AI “coder assistant” for help in a way that actually gets results—because trust me, the way you talk to the AI makes all the difference.
