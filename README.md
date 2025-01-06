@@ -5,8 +5,6 @@ Welcome to the **Tips & Tricks for AI Coder Beginners**, a comprehensive resourc
 ---
 
 ## Table of Contents
-
-## Table of Contents
 1. [Introduction](#introduction)
 2. [Chapter 1: Getting the AI to Do What You Want – The Power of Thoughtful Prompts](#chapter-1-getting-the-ai-to-do-what-you-want-–-the-power-of-thoughtful-prompts)
 3. [Chapter 2: When Things Aren't Going Your Way – Troubleshooting with AI and Regaining Momentum](#chapter-2-when-things-arent-going-your-way-–-troubleshooting-with-ai-and-regaining-momentum)
