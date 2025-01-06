@@ -26,7 +26,7 @@ This guide also serves as a testament to my journey as a beginner developer lear
 
 ## Chapter 1: Getting the AI to Do What You Want – The Power of Thoughtful Prompts
 
-If you’re reading this, I’m guessing you’ve heard the big buzz about using AI tools to build websites and apps. Maybe you’ve even opened up one of these tools—ChatGPT, GitHub Copilot, or something similar—and typed, “Make me a website,” only to feel like… I don’t know… something was still missing. Maybe the AI gave you a mishmash of code, and now you’re staring at your screen, thinking, “What on earth do I do with this?”
+If you’re reading this, I’m guessing you’ve heard the big buzz about using AI tools to build websites and apps. Maybe you’ve even opened up one of these tools—Cursor, ChatGPT, GitHub Copilot, or something similar—and typed, “Make me a website,” only to feel like… I don’t know… something was still missing. Maybe the AI gave you a mishmash of code, and now you’re staring at your screen, thinking, “What on earth do I do with this?”
 
 Don’t worry—you’re not alone. We all start somewhere, and I’m thrilled you’re here because that’s where this guide comes in.
 
