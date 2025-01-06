@@ -25,12 +25,6 @@ This guide also serves as a testament to my journey as a beginner developer lear
 
 ## Chapter 1: Getting the AI to Do What You Want – The Power of Thoughtful Prompts
 
-If you’re reading this, I’m guessing you’ve heard the big buzz about using AI tools to build websites and apps. Maybe you’ve even opened up one of these tools—Cursor, ChatGPT, GitHub Copilot, or something similar—and typed, “Make me a website,” only to feel like… I don’t know… something was still missing. Maybe the AI gave you a mishmash of code, and now you’re staring at your screen, thinking, “What on earth do I do with this?”
-
-Don’t worry—you’re not alone. We all start somewhere, and I’m thrilled you’re here because that’s where this guide comes in.
-
-Let me share with you one of the biggest lessons I learned early on when I was just like you. Ready? Here it is: The way you phrase what you ask the AI to do is everything. The difference between getting something brilliant and getting something useless often comes down to how you asked for it. Sounds simple, but this tip alone can save you a lot of frustration.
-
 So, let’s talk about how to ask your AI “coder assistant” for help in a way that actually gets results—because trust me, the way you talk to the AI makes all the difference.
 
 ### Why Asking the Right Way Matters
