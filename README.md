@@ -2,8 +2,6 @@
 
 Welcome to the **Tips & Tricks for AI Coder Beginners**, a comprehensive resource designed to help non-coders effectively use AI tools to develop websites, apps, and other projects. This guide is based on real-world experience and practical advice tailored for absolute beginners.
 
-If you feel overwhelmed by technical jargon or don’t know where to start, this guide is for you. We’ll cover everything step-by-step, sharing actionable tips and tricks to empower you to communicate with AI like a pro. 
-
 ---
 
 ## Table of Contents
