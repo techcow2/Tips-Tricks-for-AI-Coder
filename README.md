@@ -101,5 +101,3 @@ If there’s one thing you take away from this chapter, let it be this: specific
 This process might feel clunky at first, but I promise, the more you practice, the better you’ll get at it.
 
 ### Remember, the way you word it matters!
-
-Learning how to phrase prompts is like the secret handshake to unlock the full potential of AI-powered coding tools. You don’t need to know how to write a single line of code to get these tools to work for you—you just need to know how to ask them the right way. And now, you’ve got your beginner’s guide to making that happen.
