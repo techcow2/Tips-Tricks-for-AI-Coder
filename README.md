@@ -199,5 +199,3 @@ This one shift can be a game-changer.
 Troubleshooting is part of the journey, and every problem you solve builds your confidence. The key is to approach each issue with patience, curiosity, and a willingness to experiment. You’ve got this—now let’s keep building!
 
 --- 
-
-This update seamlessly integrates Chapter 2, ensuring the guide maintains its flow and remains a beginner-friendly resource. Let me know if you'd like further tweaks!
