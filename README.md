@@ -212,7 +212,7 @@ A screenshot can often say more than words, especially when something in your UI
    Use basic image editing tools to circle, underline, or annotate the parts of the screenshot that are relevant to the problem. This helps the AI know where to focus.
 
 3. **Clarify That the Screenshot Represents a Problem:**  
-   To ensure the AI doesn’t misinterpret the image as your desired output, use this prompt:
+   To make sure the AI doesn’t misinterpret the image as your desired output, use this prompt:
    - *“The problem continues - the picture shows the problem, not the solution.”*
 
    Why this works: This phrasing explicitly tells the AI to treat the screenshot as evidence of the issue, ensuring it analyzes the problem rather than assuming the outcome.
@@ -253,7 +253,7 @@ Screenshots aren’t just for pinpointing UI problems. Here are some additional 
 
 3. **Highlight Missing Elements in the UI:**  
    If something is missing from your UI (e.g., an image, button, or text), use a screenshot to show its absence:
-   - *“This screenshot shows the current UI. The ‘Add to Cart’ button is missing below each product listing. Please analyze the code and ensure the button appears in the correct location.”*
+   - *“This screenshot shows the current UI. The ‘Add to Cart’ button is missing below each product listing. Please analyze the code and make sure the button appears in the correct location.”*
 
 4. **Comparing Designs:**  
    Use screenshots of designs from similar apps or websites as inspiration and ask the AI to replicate elements from those designs:
