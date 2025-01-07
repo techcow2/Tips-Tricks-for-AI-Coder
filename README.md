@@ -289,3 +289,6 @@ This can include:
 #### Why It Helps:
 - It creates a single source of truth for all changes, helping you debug and roll back if necessary.
 - It reduces frustration when the AI forgets past edits, as you can refer to the changelog or inline comments.
+
+### Demo Tracking Using Cursor's Agent Feature:
+https://github.com/techcow2/cursor-agent-tracking
