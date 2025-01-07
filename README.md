@@ -154,7 +154,7 @@ If one AI model isn’t giving you answers you can work with, try mixing things 
 - **ChatGPT (especially GPT-4):** Great for general-purpose coding advice, debugging, and generating reusable code snippets.
 - **Claude (Anthropic):** Often excels at understanding complex instructions and summarizing code but can miss finer debugging details.
 - **Gemini (Google):** May provide additional context if you’re dealing with Google-related tools or technologies.
-- **Specialized Coding Assistants (e.g., GitHub Copilot):** Integrated directly into IDEs for real-time coding help.
+- **Specialized Coding Assistants (e.g., Cursor, GitHub Copilot, Windsurf):** Integrated directly into IDEs for real-time coding help.
 
 Here’s how to do it:
 1. Copy your current code or problem description.
