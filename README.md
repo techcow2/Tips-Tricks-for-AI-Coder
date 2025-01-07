@@ -96,9 +96,7 @@ This process might feel clunky at first, but I promise, the more you practice, t
 
 ## Chapter 2: When Things Aren't Going Your Way – Troubleshooting with AI and Regaining Momentum
 
-Let’s be real—working with AI to build apps and websites isn’t always smooth sailing. There will be moments when you feel like you’re on a roll, only to hit a wall where nothing seems to work. You’ve given the AI clear instructions (or so you thought), you’ve rephrased your requests, and yet… your project isn’t moving forward.
-
-Don’t panic.
+Working with AI to build apps and websites isn’t always smooth sailing. There will be moments when you feel like you’re on a roll, only to hit a wall where nothing seems to work. You’ve given the AI clear instructions (or so you thought), you’ve rephrased your requests, and yet… your project isn’t moving forward.
 
 This chapter is all about troubleshooting those frustrating situations and getting yourself unstuck.
 
