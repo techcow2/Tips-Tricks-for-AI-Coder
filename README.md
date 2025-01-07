@@ -82,7 +82,7 @@ One trick I’ve learned is to start with the right task-specific phrase—think
    - Use this: “I lost the [file], please restore it so that the project looks and functions exactly as it was.”
    - Example: “I lost the style.css file, please restore it so the website looks and functions exactly as it did before.”
 
-   We’ve all been there—you delete a file by mistake, and panic sets in. If this happens, don’t sweat it. Let the AI know what file you lost and give it some context (e.g., “This file handled all the styling for my homepage”). While the AI might not restore the file perfectly, it’ll often provide enough to get things back on track.
+   It's important to let the AI know what file you lost and give it some context (e.g., “This file handled all the styling for my homepage”). While the AI might not restore the file perfectly, it’ll often provide enough to get things back on track.
 
 ### The Key to Success: Get Specific
 
