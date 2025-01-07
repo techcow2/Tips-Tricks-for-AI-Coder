@@ -80,7 +80,7 @@ One trick I’ve learned is to start with the right task-specific phrase—think
 
 6. **When You Accidentally Delete Something:**
    - Use this: “I lost the [file], please restore it so that the project looks and functions exactly as it was.”
-   - Example: “I lost the style.css file, please restore it so the website looks and functions exactly as it did before.”
+   - Example: “I lost the style.css file, please restore it so the project looks and functions exactly as it did before.”
 
    It's important to let the AI know what file you lost and give it some context (e.g., “This file handled all the styling for my homepage”). While the AI might not restore the file perfectly, it’ll often provide enough to get things back on track.
 
@@ -233,7 +233,7 @@ Another common issue is when the AI generates code changes that don’t appear i
 
 3. Use targeted prompts to go deeper:
    - *“Analyze the entire directory and look for problems that are preventing your changes from being implemented.”*
-   - *“Figure out why your changes are not reflecting what I see on the site.”*
+   - *“Figure out why your changes are not reflecting what I see on the project.”*
 
 Why this works: Combining screenshots with prompts gives the AI both visual and written context, making it easier for it to identify underlying issues.
 
@@ -256,7 +256,7 @@ Screenshots aren’t just for pinpointing UI problems. Here are some additional 
    - *“This screenshot shows the current UI. The ‘Add to Cart’ button is missing below each product listing. Please analyze the code and make sure the button appears in the correct location.”*
 
 4. **Comparing Designs:**  
-   Use screenshots of designs from similar apps or websites as inspiration and ask the AI to replicate elements from those designs:
+   Use screenshots of designs from similar apps or projects as inspiration and ask the AI to replicate elements from those designs:
    - *“Here’s a screenshot of a competitor’s navbar. Make my navbar look like this, matching its style and responsiveness.”*
 
 ---
