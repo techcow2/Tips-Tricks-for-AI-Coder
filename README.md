@@ -4,16 +4,16 @@ Welcome to the **Tips & Tricks for AI Coder Beginners**, a comprehensive resourc
 
 ---
 
-## Table of Contents
+# Table of Contents
 
-1. [Introduction](#introduction)  
-2. [Chapter 1: Getting the AI to Do What You Want – The Power of Thoughtful Prompts](#chapter-1-getting-the-ai-to-do-what-you-want--the-power-of-thoughtful-prompts)  
-3. [Chapter 2: When Things Aren't Going Your Way – Troubleshooting with AI and Regaining Momentum](#chapter-2-when-things-arent-going-your-way--troubleshooting-with-ai-and-regaining-momentum)  
-4. [Chapter 3: Using Screenshots and Tracking to Handle Persistent Issues](#chapter-3-using-screenshots-and-tracking-to-handle-persistent-issues)  
-5. [Chapter 4: Guiding AI to Address Problems, Errors, and Challenges Effectively](#chapter-4-guiding-ai-to-address-problems-errors-and-challenges-effectively)  
-6. [Chapter 5: Understanding CDN Libraries and Their Role in Your Project](#chapter-5-understanding-cdn-libraries-and-their-role-in-your-project)
-7. *(Coming Soon)*
-8. *(Coming Soon)*
+- [Introduction](#introduction)
+- [Chapter 1: Getting the AI to Do What You Want – The Power of Thoughtful Prompts](#chapter-1-getting-the-ai-to-do-what-you-want--the-power-of-thoughtful-prompts)
+- [Chapter 2: When Things Aren't Going Your Way – Troubleshooting with AI and Regaining Momentum](#chapter-2-when-things-arent-going-your-way--troubleshooting-with-ai-and-regaining-momentum)
+- [Chapter 3: Using Screenshots and Tracking to Handle Persistent Issues](#chapter-3-using-screenshots-and-tracking-to-handle-persistent-issues)
+- [Chapter 4: Guiding AI to Address Problems, Errors, and Challenges Effectively](#chapter-4-guiding-ai-to-address-problems-errors-and-challenges-effectively)
+- [Chapter 5: Understanding CDN Libraries and Their Role in Your Project](#chapter-5-understanding-cdn-libraries-and-their-role-in-your-project)
+- [Chapter 6: Coming Soon](#chapter-6-coming-soon)
+- [Chapter 7: Coming Soon](#chapter-7-coming-soon)
 
 ---
 
