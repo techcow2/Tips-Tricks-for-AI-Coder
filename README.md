@@ -15,6 +15,7 @@ Welcome to the **Tips & Tricks for AI Coder Beginners**, a comprehensive resourc
 - [Chapter 6: Coming Soon](#chapter-6-coming-soon)
 - [Chapter 7: Coming Soon](#chapter-7-coming-soon)
 
+
 ---
 
 ## Introduction
