@@ -12,8 +12,8 @@ Welcome to the **Tips & Tricks for AI Coder Beginners**, a comprehensive resourc
 - [Chapter 3: Using Screenshots and Tracking to Handle Persistent Issues](#chapter-3-using-screenshots-and-tracking-to-handle-persistent-issues)
 - [Chapter 4: Guiding AI to Address Problems, Errors, and Challenges Effectively](#chapter-4-guiding-ai-to-address-problems-errors-and-challenges-effectively)
 - [Chapter 5: Understanding CDN Libraries and Their Role in Your Project](#chapter-5-understanding-cdn-libraries-and-their-role-in-your-project)
-- [Chapter 6: Coming Soon](#chapter-6-coming-soon)
-- [Chapter 7: Coming Soon](#chapter-7-coming-soon)
+- [Chapter 6: Coming Soon]
+- [Chapter 7: Coming Soon]
 
 
 ---
