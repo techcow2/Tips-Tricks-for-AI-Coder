@@ -669,7 +669,7 @@ Instead, let’s say you highlight the specific section of the code related to *
 
 ---
 
-## Step-by-Step: How to Guide AI in GitHub Copilot
+## Step-by-Step: How to Guide AI in your AI Powered IDE
 
 Using **GitHub Copilot** or a similar AI-powered IDE, follow these steps to maximize effectiveness:
 
