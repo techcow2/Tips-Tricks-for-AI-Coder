@@ -686,7 +686,6 @@ Using **GitHub Copilot** or a similar AI-powered IDE, follow these steps to maxi
 - In GitHub Copilot, right-click the selected code and choose one of the following:
   - **"Fix this code"** if you know it's broken.
   - **"Explain why this isn’t working"** if you need AI’s analysis.
-  - **"Refactor this code for better readability"** if you want improvements.
 
 ### **4. Use Clear, Contextual Prompts**
 
