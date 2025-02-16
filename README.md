@@ -612,9 +612,9 @@ Below, you’ll find popular libraries you can easily add to your project via a 
 
 # Chapter 6: How to Work with AI, Not Just Let It Work for You
 
-Artificial intelligence is an incredibly powerful tool for coding, but to get the best results, you shouldn’t rely solely on full automation. Many AI-powered IDEs, like GitHub Copilot, Cursor & WindSurf offer **Agent Mode**, which can take full control of problem-solving, but this isn’t always the most effective approach. In many cases, taking a more interactive role—by highlighting sections of your code, requesting edits, and guiding the AI—yields better results. The key to maximizing AI’s potential is striking the right balance between automation and human oversight.
+Artificial intelligence is an incredibly powerful tool for coding, but to get the best results, I've learned that you shouldn’t rely solely on full automation. Many AI-powered IDEs, like GitHub Copilot, Cursor & WindSurf offer **Agent Mode**, which can take full control of problem-solving, but this isn’t always the most effective approach. In many cases, taking a more interactive role—by highlighting sections of your code, requesting edits, and guiding the AI—yields better results. The key to maximizing AI’s potential is striking the right balance between automation and human oversight.
 
-Think of AI as a **collaborative partner**, not just a tool that runs on autopilot. Somethiing I've learned along the way is that AI can independently produce flawless code without any guidance. The reality is that AI performs best when it’s working alongside **human intuition and problem-solving skills**. Even if you don’t fully grasp every detail of your code, having a general sense of where an issue lies is often enough to **steer the AI in the right direction**.
+Think of AI as a **collaborative partner**, not just a tool that runs on autopilot. At the start of this journey, I was under the impression that AI can independently produce flawless code without any guidance. The reality is that AI performs best when it’s working alongside **human intuition and problem-solving skills**. Even if you don’t fully grasp every detail of your code, having a general sense of where an issue lies is often enough to **steer the AI in the right direction**.
 
 ---
 
