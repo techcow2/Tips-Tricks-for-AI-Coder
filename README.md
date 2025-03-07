@@ -772,7 +772,7 @@ Even though your AI code assistant is powerful, it can sometimes run into **rate
    - This helps reduce overall usage, preventing you from hitting limits quickly.
 
 4. **Switch Models When Necessary**  
-   - If GPT4o is giving you trouble or seems “busy,” you can switch to Claude Sonnet 3.5 or 3.7 if your platform supports it.  
+   - If one model is giving you trouble or seems “busy,” you can switch to a different model if your platform supports it.  
    - Don’t be afraid to bounce between models if you sense you’re nearing usage caps.
 
 ---
