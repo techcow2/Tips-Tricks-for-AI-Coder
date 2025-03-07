@@ -789,7 +789,7 @@ Selecting the right AI model can make or break your productivity. Here’s a qui
    - Your **go-to model** for most tasks.  
    - Balanced approach—handles moderate to complex changes without too much overhead.
 
-3. **Claude 3.7 Sonnet (Preview)**  
+3. **Claude 3.7 Sonnet**  
    - For **bigger challenges**—significant refactors, multi-feature builds, or complicated debugging sessions.  
    - If 3.5 Sonnet isn’t quite getting you there, try 3.7.
 
