@@ -4,16 +4,23 @@ Welcome to the **Tips & Tricks for AI Coder Beginners**, a comprehensive resourc
 
 ---
 
-# Table of Contents  
+# 📖 Table of Contents  
 
-- [Introduction](#introduction)  
-- [Chapter 1: Getting the AI to Do What You Want – The Power of Thoughtful Prompts](#chapter-1-getting-the-ai-to-do-what-you-want--the-power-of-thoughtful-prompts)  
-- [Chapter 2: When Things Aren't Going Your Way – Troubleshooting with AI and Regaining Momentum](#chapter-2-when-things-arent-going-your-way--troubleshooting-with-ai-and-regaining-momentum)  
-- [Chapter 3: Using Screenshots and Tracking to Handle Persistent Issues](#chapter-3-using-screenshots-and-tracking-to-handle-persistent-issues)  
-- [Chapter 4: Guiding AI to Address Problems, Errors, and Challenges Effectively](#chapter-4-guiding-ai-to-address-problems-errors-and-challenges-effectively)  
-- [Chapter 5: Understanding CDN Libraries and Their Role in Your Project](#chapter-5-understanding-cdn-libraries-and-their-role-in-your-project)  
-- [Chapter 6: How to Work with AI, Not Just Let It Work for You](#chapter-6-how-to-work-with-ai-not-just-let-it-work-for-you)  
-- [Chapter 7: Making the Most of Your AI Assistant – When to Use Agent Mode, Edit Mode, and Other Models](#chapter-7-making-the-most-of-your-ai-assistant--when-to-use-agent-mode-edit-mode-and-other-models)
+### 🚀 **Getting Started**  
+- [📌 Introduction](#introduction)  
+
+### 🎯 **Mastering AI-Assisted Coding**  
+- [🧠 Chapter 1: Getting the AI to Do What You Want – The Power of Thoughtful Prompts](#chapter-1-getting-the-ai-to-do-what-you-want--the-power-of-thoughtful-prompts)  
+- [🔍 Chapter 2: When Things Aren't Going Your Way – Troubleshooting with AI and Regaining Momentum](#chapter-2-when-things-arent-going-your-way--troubleshooting-with-ai-and-regaining-momentum)  
+- [📸 Chapter 3: Using Screenshots and Tracking to Handle Persistent Issues](#chapter-3-using-screenshots-and-tracking-to-handle-persistent-issues)  
+- [🛠️ Chapter 4: Guiding AI to Address Problems, Errors, and Challenges Effectively](#chapter-4-guiding-ai-to-address-problems-errors-and-challenges-effectively)  
+
+### 🏗️ **Building Smarter Projects**  
+- [🌐 Chapter 5: Understanding CDN Libraries and Their Role in Your Project](#chapter-5-understanding-cdn-libraries-and-their-role-in-your-project)  
+- [🤝 Chapter 6: How to Work with AI, Not Just Let It Work for You](#chapter-6-how-to-work-with-ai-not-just-let-it-work-for-you)  
+
+### 🤖 **Advanced AI-Assisted Development**  
+- [⚡ Chapter 7: Making the Most of Your AI Assistant – When to Use Agent Mode, Edit Mode, and Other Models](#chapter-7-making-the-most-of-your-ai-assistant--when-to-use-agent-mode-edit-mode-and-other-models)  
 
 ---
 
