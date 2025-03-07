@@ -4,19 +4,16 @@ Welcome to the **Tips & Tricks for AI Coder Beginners**, a comprehensive resourc
 
 ---
 
-# Table of Contents
+# Table of Contents  
 
-- [Introduction](#introduction)
-- [Chapter 1: Getting the AI to Do What You Want – The Power of Thoughtful Prompts](#chapter-1-getting-the-ai-to-do-what-you-want--the-power-of-thoughtful-prompts)
-- [Chapter 2: When Things Aren't Going Your Way – Troubleshooting with AI and Regaining Momentum](#chapter-2-when-things-arent-going-your-way--troubleshooting-with-ai-and-regaining-momentum)
-- [Chapter 3: Using Screenshots and Tracking to Handle Persistent Issues](#chapter-3-using-screenshots-and-tracking-to-handle-persistent-issues)
-- [Chapter 4: Guiding AI to Address Problems, Errors, and Challenges Effectively](#chapter-4-guiding-ai-to-address-problems-errors-and-challenges-effectively)
-- [Chapter 5: Understanding CDN Libraries and Their Role in Your Project](#chapter-5-understanding-cdn-libraries-and-their-role-in-your-project)
-- [Chapter 6: How to Work with AI, Not Just Let It Work for You](#chapter-6-how-to-work-with-ai-not-just-let-it-work-for-you)
-
--  🟡 **[Chapter 7: Coming Soon: App Security for Non-Experts – A Guide, Not a Guarantee]** 🟡
-
-
+- [Introduction](#introduction)  
+- [Chapter 1: Getting the AI to Do What You Want – The Power of Thoughtful Prompts](#chapter-1-getting-the-ai-to-do-what-you-want--the-power-of-thoughtful-prompts)  
+- [Chapter 2: When Things Aren't Going Your Way – Troubleshooting with AI and Regaining Momentum](#chapter-2-when-things-arent-going-your-way--troubleshooting-with-ai-and-regaining-momentum)  
+- [Chapter 3: Using Screenshots and Tracking to Handle Persistent Issues](#chapter-3-using-screenshots-and-tracking-to-handle-persistent-issues)  
+- [Chapter 4: Guiding AI to Address Problems, Errors, and Challenges Effectively](#chapter-4-guiding-ai-to-address-problems-errors-and-challenges-effectively)  
+- [Chapter 5: Understanding CDN Libraries and Their Role in Your Project](#chapter-5-understanding-cdn-libraries-and-their-role-in-your-project)  
+- [Chapter 6: How to Work with AI, Not Just Let It Work for You](#chapter-6-how-to-work-with-ai-not-just-let-it-work-for-you)  
+- [Chapter 7: Mastering Your AI Code Assistant – When to Use Agent Mode, Edit Mode, and the Right AI Model](#chapter-7-mastering-your-ai-code-assistant--when-to-use-agent-mode-edit-mode-and-the-right-ai-model)  
 
 ---
 
@@ -711,5 +708,142 @@ Alright, now that you've got a solid understanding of how to **work with AI rath
 
 AI is here to help, but it thrives when you take the lead. The more you interact with it, the better it gets at assisting you. Think of it like a teammate—you wouldn’t expect a great outcome without communicating clearly. So, keep experimenting, stay engaged, and most importantly, have fun refining your AI-assisted coding workflow!
 
+---
 
+## Chapter 7: Making the Most of your AI assistant – When to Use Agent Mode, Edit Mode, and Other Models
 
+In this chapter, we’ll explore **Agent Mode** vs. **Edit Mode** in your AI code assistant to help you choose the right approach for any situation. We’ll also cover how to **avoid rate limits** and which **AI models** to pick for different tasks.
+
+---
+
+### 1. Meet The Two Popular Modes
+
+Modern AI-powered IDEs often provide at least two ways to interact with your code. Let’s break down **Agent Mode** and **Edit Mode** so you know exactly when to pick one over the other.
+
+---
+
+#### 1.1 Agent Mode
+Agent Mode is like firing up a mini “developer’s brain” in your IDE. It looks at your entire codebase, identifies where changes need to happen, and can implement those changes automatically. This can be an absolute game-changer when:
+1. **You’re Adding a New Feature**  
+   - Example: Implementing a new user profile system that spans multiple files (database schema, backend routes, front-end forms).
+2. **You’re Making Big Structural Changes**  
+   - Example: Migrating your project from vanilla CSS to Tailwind, or refactoring your entire component structure in React.
+3. **You’ve Tried Simple Fixes in Edit Mode, But Nothing Works**  
+   - Sometimes, the quick patches just don’t resolve the deeper issue—Agent Mode can take a broader look.
+4. **You’re Not Sure Which Files Need Editing**  
+   - If you only have a vague idea of what needs to change, let the agent handle the “detective work.”
+
+**Key Advantage:** It’s a “big-picture” approach—Agent Mode can (theoretically) see the forest, not just the trees.
+
+**Caution:** It can be overkill for small tweaks. If you only need to edit one or two lines, Agent Mode might create unintended changes elsewhere.
+
+---
+
+#### 1.2 Edit Mode
+Edit Mode is your best friend for targeted changes in one or two specific files. You tell your AI code assistant exactly where to look, highlight the lines of code, and request a fix or improvement. This mode works best when:
+1. **Making Small Updates**  
+   - Example: Changing a function name or updating an API endpoint in a single file.
+2. **Fixing Minor Bugs**  
+   - Example: Correcting a single line that’s causing a console error, or adjusting a CSS property that’s misaligned.
+3. **Tweaking Known Problem Areas**  
+   - Example: You know that `login.js` is causing issues—just highlight the relevant code block and let your AI assistant fix it.
+4. **Testing Quick Ideas**  
+   - Example: “What if we rename this variable?” or “Let me see how the AI suggests a simpler for-loop.”
+
+**Key Advantage:** Precision. You dictate exactly where the AI looks, drastically cutting down on guesswork.
+
+**Caution:** Not ideal for large-scale changes or multi-file implementations. You’ll spend too much time highlighting different sections when a bigger “Agent Mode” pass might be more efficient.
+
+---
+
+### 2. Avoiding Rate Limits: The Role of GPT4o for your AI code assistant
+
+Even though your AI code assistant and other tools are powerful, they can sometimes run into **rate limits**—essentially usage caps or busy servers that prevent you from making unlimited requests. Here’s how you can sidestep these limitations:
+
+1. **Use GPT4o for Inline Chat**  
+   - GPT4o is typically faster for single-file edits and smaller changes.  
+   - It often has lower queue times and can be more accurate for brief tasks.
+
+2. **Save Busy Models for Larger Tasks**  
+   - If you’re performing a big overhaul (i.e., Agent Mode or multi-file updates), you might need a more advanced or specialized model. But for quick fixes, GPT4o can help you avoid spikes in usage on the bigger models.
+
+3. **Keep Requests Specific**  
+   - The more targeted your prompts, the fewer times you need to re-run them.  
+   - This helps reduce overall usage, preventing you from hitting limits quickly.
+
+4. **Switch Models When Necessary**  
+   - If GPT4o is giving you trouble or seems “busy,” you can switch to Claude Sonnet 3.5 or 3.7 if your platform supports it.  
+   - Don’t be afraid to bounce between models if you sense you’re nearing usage caps.
+
+---
+
+### 3. Which Model Should You Use?
+
+Selecting the right AI model can make or break your productivity. Here’s a quick reference:
+
+1. **GPT4o**  
+   - Use it for **smaller changes** and **inline edits**.  
+   - Great for rewriting a single function, fixing a bug in a small snippet, or adjusting a CSS style.
+
+2. **Claude 3.5 Sonnet**  
+   - Your **go-to model** for most tasks.  
+   - Balanced approach—handles moderate to complex changes without too much overhead.
+
+3. **Claude 3.7 Sonnet (Preview)**  
+   - For **bigger challenges**—significant refactors, multi-feature builds, or complicated debugging sessions.  
+   - If 3.5 Sonnet isn’t quite getting you there, try 3.7.
+
+4. **Claude 3.7 Sonnet (Thinking)**  
+   - **Last resort** for “major problem meltdown.”  
+   - If everything else fails or you’re adding a massive set of features, this is your big gun.
+
+5. **Other Models**  
+   - Explore them if none of the above deliver the results you need, or if you have specialized tasks.
+
+---
+
+### 4. Practical Tips for AI Coding Success
+
+Let’s look at a few real-world tips for using your tools effectively—especially if you’re still growing your coding confidence.
+
+1. **Prompt Clarity Is Everything**  
+   - Whether you’re in Agent or Edit Mode, always specify the problem, the desired outcome, and (if possible) what to avoid.  
+   - Example: “Add a user registration feature that stores data in the existing MongoDB database **without** changing my express.js routes or altering the front-end sign-in form.”
+
+2. **Test in Small Steps**  
+   - Even if you need a big set of changes, consider breaking them down into smaller tasks if possible.  
+   - This lets you catch problems early and revert easily if something goes wrong.
+
+3. **Use Version Control Religiously**  
+   - Commit changes before letting your tools modify your code.  
+   - This way, you always have a stable restore point.
+
+4. **Watch the Console or Logs**  
+   - Right after your code assistant modifies your code, open up your browser console (for front-end) or terminal logs (for back-end) to see if new errors appear.  
+   - This immediate feedback helps you catch issues introduced by AI-driven changes.
+
+5. **Combine Human Intuition with AI**  
+   - Even if you’re a beginner, you can still sense when something in your code “feels off.”  
+   - If an AI-generated block looks overly complicated, ask it to simplify or explain itself rather than blindly trusting it.
+
+---
+
+### 5. Example Workflow: Building a New Feature vs. Quick Bug Fix
+
+Let’s walk through how you might apply what we’ve covered:
+
+#### 5.1 Building a New Multi-Step Feature (Use Agent Mode)
+1. **Step 1:** Identify your goal (e.g., adding a new “user reviews” section that spans backend and frontend).  
+2. **Step 2:** Switch to **Agent Mode** in your IDE.  
+3. **Step 3:** Describe the feature in detail, emphasizing you’re not sure which files need changing. Provide any relevant database schemas or existing code.  
+4. **Step 4:** Let Agent Mode propose changes. Review them carefully.  
+5. **Step 5:** Test thoroughly and commit once you confirm everything is working.
+
+#### 5.2 Quick Bug Fix (Use Edit Mode)
+1. **Step 1:** Identify the bug (e.g., a “forgot password” link that doesn’t work).  
+2. **Step 2:** Pinpoint the file or code snippet causing the issue (e.g., a small function in `Auth.js`).  
+3. **Step 3:** Highlight the relevant lines, open **Edit Mode**, and ask your AI coder to fix it.  
+4. **Step 4:** Test locally to verify the fix.  
+5. **Step 5:** Commit if successful; revert and try again if it fails.
+
+---
