@@ -13,7 +13,7 @@ Welcome to the **Tips & Tricks for AI Coder Beginners**, a comprehensive resourc
 - [Chapter 4: Guiding AI to Address Problems, Errors, and Challenges Effectively](#chapter-4-guiding-ai-to-address-problems-errors-and-challenges-effectively)  
 - [Chapter 5: Understanding CDN Libraries and Their Role in Your Project](#chapter-5-understanding-cdn-libraries-and-their-role-in-your-project)  
 - [Chapter 6: How to Work with AI, Not Just Let It Work for You](#chapter-6-how-to-work-with-ai-not-just-let-it-work-for-you)  
-- [Chapter 7: Mastering Your AI Code Assistant – When to Use Agent Mode, Edit Mode, and the Right AI Model](#chapter-7-mastering-your-ai-code-assistant--when-to-use-agent-mode-edit-mode-and-the-right-ai-model)  
+- [Chapter 7: Making the Most of Your AI Assistant – When to Use Agent Mode, Edit Mode, and Other Models](#chapter-7-making-the-most-of-your-ai-assistant--when-to-use-agent-mode-edit-mode-and-other-models)
 
 ---
 
@@ -710,7 +710,7 @@ AI is here to help, but it thrives when you take the lead. The more you interact
 
 ---
 
-## Chapter 7: Making the Most of your AI assistant – When to Use Agent Mode, Edit Mode, and Other Models
+## Chapter 7: Making the Most of Your AI Assistant – When to Use Agent Mode, Edit Mode, and Other Models
 
 In this chapter, we’ll explore **Agent Mode** vs. **Edit Mode** in your AI code assistant to help you choose the right approach for any situation. We’ll also cover how to **avoid rate limits** and which **AI models** to pick for different tasks.
 
