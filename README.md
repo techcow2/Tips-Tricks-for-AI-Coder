@@ -758,7 +758,7 @@ Edit Mode is your best friend for targeted changes in one or two specific files.
 
 ### 2. Avoiding Rate Limits:
 
-Even though your AI code assistant and other tools are powerful, they can sometimes run into **rate limits**—essentially usage caps or busy servers that prevent you from making unlimited requests. Here’s how you can sidestep these limitations:
+Even though your AI code assistant is powerful, it can sometimes run into **rate limits**—essentially usage caps or busy servers that prevent you from making unlimited requests. Here’s how you can sidestep these limitations:
 
 1. **Use GPT4o for Inline Chat**  
    - GPT4o is typically faster for single-file edits and smaller changes.  
