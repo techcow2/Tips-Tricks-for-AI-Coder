@@ -858,7 +858,7 @@ Let’s walk through how you might apply what we’ve covered:
 
 ## Chapter 8: Taming the Code – Why Smaller Files Are Better (for You *and* Your AI)
 
-Staring at a 1,200-line file can feel like facing a mythical beast. It’s unwieldy, it’s intimidating, and it can quickly turn your coding sessions into a slog. But the truth is, **long, monolithic files aren’t just hard on you—they’re also tough on your AI assistant**. Bigger files consume more “brainpower” (a.k.a. tokens or requests) and can push you closer to those dreaded rate limits. That’s where **keeping your files under 500 lines** comes in as a lifesaver.
+Staring at a 1,200-line file can be overwhelming. It’s unwieldy, it’s intimidating, and it can quickly turn your coding sessions into a slog. But the truth is, **long, monolithic files aren’t just hard on you—they’re also tough on your AI assistant**. Bigger files consume more “brainpower” (a.k.a. tokens or requests) and can push you closer to those dreaded rate limits. That’s where **keeping your files under 500 lines** comes in as a lifesaver.
 
 In this chapter, we’ll explore what has personally worked for me, why shorter files make life easier for both humans and AI, how to split towering monoliths into smaller modules, and how to keep track of the process in a low-stress way.
 
