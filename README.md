@@ -1115,14 +1115,14 @@ Below is a **longer** table of AI assistants, complete with links and support in
 
 | **Tool**     | **Website**                                   | **Support Link**                                                               | **Notes**                                                        |
 |--------------|-----------------------------------------------|--------------------------------------------------------------------------------|------------------------------------------------------------------|
-| **Cline**    | [Visit](https://github.com/cline/cline)       | [Support](https://github.com/cline/cline/issues)                              | A smaller, community-driven project with open-source roots.[1][8]      |
-| **Cody.ai**  | [Visit](https://sourcegraph.com/cody)         | [Support](https://sourcegraph.com/docs/cody)                                  | Integrates well with Sourcegraph for code search + indexing.[2]     |
-| **Copilot**  | [Visit](https://github.com/features/copilot)  | [Support](https://docs.github.com/en/copilot/about-github-copilot/what-is-github-copilot)                                 | Backed by Microsoft & GitHub, solid for mainstream languages.[3]    |
-| **Cursor**   | [Visit](https://cursor.sh)                    | [Support](https://docs.cursor.sh)                                             | Fork of VS Code, rapidly adding new features.[4]                    |
-| **Gemini**   | [Visit](https://gemini.google.com)            | [Support](https://developers.google.com/gemini-code-assist/docs/overview)     | Google's foray; might integrate well with other Google services.[5] |
+| **Cline**    | [Visit](https://github.com/cline/cline)       | [Support](https://github.com/cline/cline/issues)                              | A smaller, community-driven project with open-source roots.      |
+| **Cody.ai**  | [Visit](https://sourcegraph.com/cody)         | [Support](https://sourcegraph.com/docs/cody)                                  | Integrates well with Sourcegraph for code search + indexing.     |
+| **Copilot**  | [Visit](https://github.com/features/copilot)  | [Support](https://docs.github.com/en/copilot/about-github-copilot/what-is-github-copilot)                                 | Backed by Microsoft & GitHub, solid for mainstream languages.    |
+| **Cursor**   | [Visit](https://cursor.sh)                    | [Support](https://docs.cursor.sh)                                             | Fork of VS Code, rapidly adding new features.                   |
+| **Gemini**   | [Visit](https://gemini.google.com)            | [Support](https://developers.google.com/gemini-code-assist/docs/overview)     | Google's foray; might integrate well with other Google services. |
 | **Trae**     | [Visit](https://trae.ai)                      | [Support](https://docs.trae.ai/docs/support)                                  | Currently unlimited and free, though that may change.            |
-| **WindSurf** | [Visit](https://codeium.com/windsurf)         | [Support](https://docs.codeium.com/windsurf/getting-started)                  | Another VS Code extension with a big push toward dev productivity.[6] |
-| **Loveable** | [Visit](https://loveable.dev)                 | [Support](https://loveable.dev/support)                                       | In-browser environment, extremely user-friendly.[7]                 |
+| **WindSurf** | [Visit](https://codeium.com/windsurf)         | [Support](https://docs.codeium.com/windsurf/getting-started)                  | Another VS Code extension with a big push toward dev productivity. |
+| **Loveable** | [Visit](https://loveable.dev)                 | [Support](https://loveable.dev/support)                                       | In-browser environment, extremely user-friendly.                |
 | **Replit**   | [Visit](https://replit.com)                   | [Support](https://docs.replit.com/)                                           | Web-based IDE with broad community, but limited deep debugging.  |
 | **Bolt**     | [Visit](https://bolt.new)                     | [Support](https://bolt.new)                                                   | Focus on simplicity; advanced debugging can be restricted.       |
 
