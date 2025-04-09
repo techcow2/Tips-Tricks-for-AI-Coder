@@ -1,7 +1,5 @@
 # AI Coding Guide for Beginners
 
-**Prefer to read this as a Kindle or paperback?** Grab *AI Assisted Coding: The Ultimate Beginner’s Guide* in print or digital here: [https://a.co/d/59mV0jZ](https://a.co/d/59mV0jZ).
-
 Welcome to the **Tips & Tricks for AI Coder Beginners**, a comprehensive resource designed to help developers effectively use AI tools to develop websites, apps, and other projects. This guide is based on real-world experience and practical advice tailored for absolute beginners.
 
 ---
