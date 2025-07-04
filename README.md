@@ -1,8 +1,8 @@
 # The Ultimate AI Coding Guide for Beginners
 
-Welcome to the **Ultimate AI Coding Guide for Beginners**, a comprehensive resource designed to help developers effectively use AI tools for building websites, applications, and other projects. This guide combines practical advice with hands-on examples to help absolute beginners navigate the exciting world of AI-assisted development.
+> **📝 Content Update Notice (July 2025):** This guide was originally written when AI development tools were in their earlier stages. While the fundamental principles and strategies remain valuable, some specific technical limitations mentioned throughout this guide (such as AI-assisted IDEs being limited to ~600 lines of code) have been significantly improved or are no longer applicable. Modern AI coding assistants can now handle much larger codebases and offer enhanced capabilities. Please consider the publication context when reading specific technical constraints, and verify current tool capabilities for the most up-to-date information.
 
----
+Welcome to the **Ultimate AI Coding Guide for Beginners**, a comprehensive resource designed to help developers effectively use AI tools for building websites, applications, and other projects. This guide combines practical advice with hands-on examples to help absolute beginners navigate the exciting world of AI-assisted development.
 
 ## 📖 Table of Contents  
 
